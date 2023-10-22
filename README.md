@@ -1,5 +1,5 @@
 ### Ayo what's up?
-Greetings, I'm Rox. I'm a noob coder from Indonesia who want to make a good game.
+Greetings, I'm Rox. I'm a noob coder from Indonesia who want to be a pro B)
 
 ### What do I do? Well...
 - I’m currently working on shader for Minecraft Bedrock Edition
