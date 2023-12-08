@@ -1,15 +1,15 @@
 ### Ayo what's up?
-Greetings, I'm Rox. I'm a noob coder from Indonesia who want to be a pro B)
+My name is Rox. I'm a noob coder from Indonesia who want to be a pro B)
 
 ### What do I do? Well...
-- I’m currently working on shader for Minecraft Bedrock Edition
-- I’m currently learning C++ and Python (plz help me learn those languages)
+- I’m currently working on shaders for Minecraft: Bedrock Edition
+- I’m currently learning Python and Java
 - I don't have anyone I want to collaborate with. If you do, pls don't. I'm too lazy to collaborate.
 - I’m looking for help with learning C++ and Python
-- Ask me about history, cuz I really like history!
-- Fun fact: Bali is not a country
+- Ask me about OpenGL Shading Language, Lua, and HTML!
+- Fun fact: Bali is not a country.
 
-## Want to contact me?
+## Connect with me!
 Discord: RoxNotFound#3404
 
 [Instagram](https://www.instagram.com/roxwithfx/)
