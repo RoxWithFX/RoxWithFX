@@ -5,7 +5,6 @@ My name is Rox. I'm a noob coder from Indonesia who want to be a pro B)
 - I’m currently working on shaders for Minecraft: Bedrock Edition
 - I’m currently learning Python and Java
 - I don't have anyone I want to collaborate with. If you do, pls don't. I'm too lazy to collaborate.
-- I’m looking for help with learning C++ and Python
 - Ask me about OpenGL Shading Language, Lua, and HTML!
 - Fun fact: Bali is not a country.
 
